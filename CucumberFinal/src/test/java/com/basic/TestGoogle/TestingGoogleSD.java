@@ -11,7 +11,6 @@ import cucumber.api.junit.Cucumber;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-
 public class TestingGoogleSD {
 	
 	Response res;

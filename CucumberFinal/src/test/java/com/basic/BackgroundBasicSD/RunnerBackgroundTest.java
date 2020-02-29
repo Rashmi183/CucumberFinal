@@ -7,7 +7,6 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		
 	features= {"src/test/resources/com/basic/BackgroundBasicFF/"},
 	glue= {"com/basic/BackgroundBasicSD/"},
 	monochrome = true,
